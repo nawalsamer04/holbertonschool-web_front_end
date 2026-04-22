@@ -1,0 +1,9 @@
+/* 16. Styling the container */
+
+.container {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* KEEP EVERYTHING FROM TASK 15 BELOW */
